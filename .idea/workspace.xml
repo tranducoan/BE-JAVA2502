@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9c0b38a-b5ed-4a84-bfe2-b6802b10ecfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day4bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4bai3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2bai1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2bai2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2bai3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2bai4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2bai5.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a9c0b38a-b5ed-4a84-bfe2-b6802b10ecfc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,22 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TinhDiemSinhVien.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/OS/Pictures/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TinhDiemSinhVien.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/OS/Pictures/Java/day3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\OS\Pictures\Java\day2" />
@@ -96,6 +87,7 @@
       <workItem from="1741789246639" duration="909000" />
       <workItem from="1741790383445" duration="318000" />
       <workItem from="1741790871813" duration="19000" />
+      <workItem from="1741791142342" duration="28000" />
     </task>
     <servers />
   </component>
