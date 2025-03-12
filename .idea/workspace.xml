@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9c0b38a-b5ed-4a84-bfe2-b6802b10ecfc" name="Changes" comment="" />
+    <list default="true" id="a9c0b38a-b5ed-4a84-bfe2-b6802b10ecfc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day4bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4bai3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2bai4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2bai5.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +27,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2uDhfjazBAzjSlSFZ8NYr4VFuyJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +45,7 @@
   "keyToString": {
     "Application.TinhDiemSinhVien.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/OS/Pictures/Java",
@@ -76,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741789157201</updated>
       <workItem from="1741789158276" duration="22000" />
-      <workItem from="1741789246639" duration="430000" />
+      <workItem from="1741789246639" duration="909000" />
     </task>
     <servers />
   </component>
