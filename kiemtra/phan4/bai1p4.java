@@ -3,7 +3,7 @@ package kiemtra;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class bai3p3 {
+public class bai1p4 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
